@@ -8,7 +8,7 @@ Are you ready to witness the world in a whole new light? Introducing ObjectFindr
 Powered by the revolutionary TensorFlow technology, ObjectFindr empowers you with real-time visual intelligence like never before.
 
 
-ObjectFindr is currently not available on the Google Play Store and F-Droid.
+ObjectFindr is currently not available on the Google Play Store, you can download the app form Github.
 
 <p align="left">
 <a href="#">
@@ -16,10 +16,10 @@ ObjectFindr is currently not available on the Google Play Store and F-Droid.
         height="80"
         src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
 </a>  
-<a href="#">
+<a href="https://github.com/aakifnehal/ObjectFindr/releases/download/v1.0/app-debug.apk">
     <img alt="Get it on F-Droid"
-        height="80"
-        src="https://f-droid.org/badge/get-it-on.png" />
+        height="68"
+        src="https://github.com/aakifnehal/NCERT-apk/blob/main/source/github_download.png" />
         </a>
         </p>
 
